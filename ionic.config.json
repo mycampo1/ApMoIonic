@@ -1,0 +1,7 @@
+{
+  "name": "ApMovIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
